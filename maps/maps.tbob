@@ -1,0 +1,51 @@
+{5}
+[9|15]0
+W W W W W W W D W W W W W W W
+W                           W
+W                           W
+W                           W
+D                           D
+W                           W
+W                           W
+W                           W
+W W W W W W W D W W W W W W W
+[9|15]1
+W W W W W W W D W W W W W W W
+W H G                   G   W
+W G G                   G G W
+W           R R R           W
+D           R R R           D
+W           R R R           W
+W G G                   G G W
+W   G                   G H W
+W W W W W W W D W W W W W W W
+[9|15]2
+W W W W W W W D W W W W W W W
+W H G                   G   W
+W G G                   G G W
+W       S   R   R   S       W
+D                           D
+W       S   R   R   S       W
+W G G                   G G W
+W   G                   G H W
+W W W W W W W D W W W W W W W
+[9|15]3
+W W W W W W W D W W W W W W W
+W H G                   G   W
+W G G                   G G W
+W       S   GGGGG   S       W
+D           GGGGG           D
+W       S   GGGGG   S       W
+W G G                   G G W
+W   G                   G H W
+W W W W W W W D W W W W W W W
+[9|15]4
+W W W W W W W D W W W W W W W
+W H G                   G   W
+W G G         G         G G W
+W       SSSSSSSSSSSSS       W
+D             S             D
+W       SSSSSSSSSSSSS       W
+W G G         G         G G W
+W   G                   G H W
+W W W W W W W D W W W W W W W
